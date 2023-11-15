@@ -9,3 +9,6 @@ RUN wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.450/qua
 
 # Install TinyTex
 RUN quarto install tinytex
+
+# Download report script
+RUN git clone https://github.com/DOH-JDJ0303/tb_report.git && mv tb_report/tb_report.qmd ./
