@@ -1,0 +1,6 @@
+Sample ID	Drug	Variant	Interpretation
+Sample01-MI-TBWGS-NextSeq-2019-63_S54	INH	fabG1 upstream_c.-15C>T,katG_p.Arg463Leu	INH-R
+Sample01-MI-TBWGS-NextSeq-2019-63_S54	RIF	No reportable variant detected	RIF-S
+Sample01-MI-TBWGS-NextSeq-2019-63_S54	PZA	No reportable variant detected	PZA-S
+Sample01-MI-TBWGS-NextSeq-2019-63_S54	FQ	No reportable variant detected	FQ-S
+Sample01-MI-TBWGS-NextSeq-2019-63_S54	EMB	embB_p.Glu378Ala	EMB-S
